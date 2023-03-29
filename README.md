@@ -8,7 +8,7 @@
 
 ## Description
 
-Durant l'année de Terminale S-SI avec spécialité ISN, nous avons été amené à réaliser un projet de groupe afin de le présenter devant un jury dans l'objetctif d'obtenir le baccalauréat.
+Durant l'année de Terminale S-SI avec spécialité ISN, nous avons été amené à réaliser un projet de groupe afin de le présenter devant un jury dans l'objectif d'obtenir le baccalauréat.
 
 ## Détails
 
